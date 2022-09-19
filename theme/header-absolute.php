@@ -62,11 +62,12 @@
 				array(
 				'theme_location' => 'menu-1',
 				'menu'              => "primary", // (int|string|WP_Term) Desired menu. Accepts a menu ID, slug, name, or object.
-				'menu_class'        => "flex flex-col lg:flex-row py-5 lg:py-0 lg:items-center gap-4 lg:gap-5 text-center md:max-w-lg lg:max-w-full mx-auto", // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
+				'menu_class'        => "flex flex-col lg:flex-row py-5 lg:py-0 lg:items-center gap-4 text-center md:max-w-lg lg:max-w-full mx-auto", // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
 				'container'         => "nav", // (string) Whether to wrap the ul, and what to wrap it with. Default 'div'.
 				'container_class'   => "menu-container menu bg-white hidden lg:flex absolute fixed",
-				'link_before'       => '<li class="font-semibold capitalize cursor-pointer">', // (string) Text before the link text.
-				'link_after'        => '</li>', // (string) Text after the link text.
+				'after'				=> "", // (string) Text after the link markup.
+				// 'link_before'       => '<li class="font-semibold capitalize cursor-pointer text-white">', // (string) Text before the link text.
+				// 'link_after'        => '</li>', // (string) Text after the link text.
 				'depth'             => "2", // (int) How many levels of the hierarchy are to be included. 0 means all. Default 0.
 				// 'theme_location'    => "top-menu", // (string) Theme location to be used. Must be registered with register_nav_menu() in order to be selectable by the user.
 				'item_spacing'      => "discard", // (string) Whether to preserve whitespace within the menu's HTML. Accepts 'preserve' or 'discard'. Default 'preserve'.
