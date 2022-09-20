@@ -57,3 +57,19 @@ const closeNav = () => {
 		}, 400);
 	}
 };
+
+const hasSubMenu = document.querySelectorAll('.down-arrow')
+
+for (var i = 0; i < hasSubMenu.length; i++) {
+  hasSubMenu[i].addEventListener("click", function() {
+    // this.classList.toggle("active");
+    var dropdownContent = this.nextElementSibling;
+	dropdownContent.classList.toggle('active')
+    if (dropdownContent.style.display === "block") {
+      dropdownContent.style.display = "none";
+    } else {
+      dropdownContent.style.display = "block";
+
+    }
+  });
+}

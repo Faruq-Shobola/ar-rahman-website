@@ -65,7 +65,7 @@
 				'menu_class'        => "flex flex-col lg:flex-row py-5 lg:py-0 lg:items-center gap-4 text-center md:max-w-lg lg:max-w-full mx-auto", // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
 				'container'         => "nav", // (string) Whether to wrap the ul, and what to wrap it with. Default 'div'.
 				'container_class'   => "menu-container menu bg-white hidden lg:flex absolute fixed",
-				'after'				=> "", // (string) Text after the link markup.
+				'after'				=> "<i class='fas fa-angle-down down-arrow'></i>", // (string) Text after the link markup.
 				// 'link_before'       => '<li class="font-semibold capitalize cursor-pointer text-white">', // (string) Text before the link text.
 				// 'link_after'        => '</li>', // (string) Text after the link text.
 				'depth'             => "2", // (int) How many levels of the hierarchy are to be included. 0 means all. Default 0.
