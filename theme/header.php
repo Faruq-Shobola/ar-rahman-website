@@ -65,7 +65,7 @@
 				</div>
 				
 				<!--------- FULL SIZE MENU --------->
-				<div class="menu hidden gap-y-20 lg:flex lg:flex-row lg:justify-end px-5 lg:px-0 bg-green-light lg:bg-transparent absolute lg:static top-0 left-0 bottom-0 h-screen lg:h-0 w-4/5 sm:w-80 lg:w-11/12">
+				<div class="menu hidden gap-y-20 lg:flex lg:flex-row lg:justify-end px-5 lg:px-0 bg-green-light lg:bg-transparent fixed lg:static top-0 left-0 bottom-0 h-screen  lg:h-0 w-4/5 sm:w-80 lg:w-11/12">
 					<span class="lg:hidden flex justify-end items-center h-10 w-full"  onclick="closeNav()">
 						<i id="hamburger" class="fas fa-arrow-left text-green-dark text-2xl "></i>
 					</span>
@@ -74,7 +74,7 @@
 						array(
 						'theme_location' => 'menu-1',
 						'menu'              => "primary", // (int|string|WP_Term) Desired menu. Accepts a menu ID, slug, name, or object.
-						'menu_class'        => "menu main-menu flex flex-col lg:flex-row py-5 lg:py-0 lg:items-center lg:gap-4  md:max-w-lg lg:max-w-full", // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
+						'menu_class'        => "menu main-menu flex flex-col lg:flex lg:flex-row py-5 lg:py-0 lg:items-center lg:gap-4  md:max-w-lg lg:max-w-full", // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
 						'container'         => "nav", // (string) Whether to wrap the ul, and what to wrap it with. Default 'div'.
 						'container_class'   => "flex flex-col justify-center lg:flex lg:flex-row lg:justify-end lg:items-center ",
 						'after'				=> "<i class='fas fa-angle-down down-arrow'></i>", // (string) Text after the link markup.

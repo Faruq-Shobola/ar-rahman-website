@@ -28,7 +28,10 @@ nav li ul li a{
     color: #007E3D;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
+	nav{
+        overflow-y: auto;
+    }
     nav ul.menu > li {
         flex-wrap: wrap;
         border-bottom: 1px solid #007E3D;
@@ -55,7 +58,7 @@ nav li ul li a{
     }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1024px) {
 
     nav{
         margin: 0;
@@ -389,8 +392,8 @@ div.wpcf7 p label {
   Facilities Styling
 ----------------*/
 .hero .img_container {
-	border-top-left-radius: 150px;
-	border-bottom-right-radius: 150px;
+	box-shadow: -20px 20px 0px 5px #F9C509;
+	padding: 0 0 5px 5px;
 }
 /*----------------
   Hero Styling

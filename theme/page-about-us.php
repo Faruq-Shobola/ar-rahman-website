@@ -30,26 +30,19 @@ get_header();
             <!------ TITLE ------>
             <h2 class="capitalize font-bold text-3xl py-2">About us</h2>
             <!------ PARAGRAPH 1------>
-            <p class="text-base text-gray-700">Duromedia was formed in 2016 by Founder, Mr. AbdulHad Durodola. 
-                He believes when passionate people and like minds work together and well empowered, amazing things happen.
+            <p class="text-base text-gray-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto debitis sapiente ducimus, ad quos consequatur repellat unde rerum laborum, soluta illo aut. Incidunt, ipsa! Temporibus amet atque magni velit laboriosam.
             </p>
             <!------ PARAGRAPH 2------>
-            <p class="text-base text-gray-700">In these few years, Duromedia has made its mark in Nigeria as well
-                as getting international recognition for excellence. The company has also made serious impact on people, small- and large-scale
-                businesses. 
+            <p class="text-base text-gray-700">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, amet dolor error totam quidem ullam. Officia eveniet alias, nostrum deserunt at sunt explicabo saepe, ducimus doloribus nihil ad? Quibusdam, ad?
             </p>
             <!------ PARAGRAPH 3------>
-            <p class="text-base text-gray-700">The DuroMedia Team which consists of Rahmat Bello, Ahmed Olusesi, Gbemi Adeosun, Yusuf AbdulLateef, 
-                Sumaiyah Ajani, Olatunji Olayemi, Temidayo Badmus, Faruq Shobola and Faizol Shobola is a very versatile team with large efforts and commitments on 
-                every project. 
+            <p class="text-base text-gray-700">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium deserunt aut omnis quas, exercitationem maiores unde fugit perspiciatis blanditiis mollitia porro, dolores excepturi id repellendus facere nihil dolore, minus sunt suscipit voluptatum inventore ipsum recusandae? Ipsum ducimus eligendi modi beatae odio consequatur adipisci suscipit ab.
             </p>
             <!------ PARAGRAPH 4------>
-            <p class="text-base text-gray-700">We believe that working closely with each other and in direct contact
-                with our clients will lead to better understanding project needs, and delivering better results. 
+            <p class="text-base text-gray-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur quasi soluta aperiam eveniet, ad neque voluptatibus tempora blanditiis aliquid doloribus? 
             </p>
             <!------ PARAGRAPH 5------>
-            <p class="text-base text-gray-700">Outside of our client work, we also have our pet charity project, The
-                Flowing Charity, TFC. The TFC project focuses on imparting Digital Skills in Nigerian youths.
+            <p class="text-base text-gray-700">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente, accusamus.
             </p>
         </div>
         <!------------ COLUMN 2 ------------>
@@ -71,20 +64,14 @@ get_header();
         <div class="flex flex-col justify-center gap-3 px-4 md:px-8">
             <h2 class="capitalize font-bold text-3xl py-2">Our Vision</h2>
             <!------ PARAGRAPH ------>
-            <p class="lg:w-5/6 my-4 text-base capitalize text-gray-700">Duromedia was formed in 2016 by Founder, Mr. AbdulHad Durodola. He believes when passionate
-                people and like minds work together and well empowered, amazing things happen.In these few years, Duromedia has made its mark in Nigeria as
-                well as getting international recognition for excellence. The company has also made serious impact on people, small- and large-scale
-                businesses.
+            <p class="lg:w-5/6 my-4 text-base capitalize text-gray-700">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia sunt veritatis maiores ducimus sit dicta qui dolores? Eius maxime tempore similique. Sequi ipsum expedita ratione. Dignissimos, nesciunt voluptate. Reiciendis itaque fuga dolore cum. Voluptas ratione animi quo repudiandae recusandae, ipsam saepe quasi ex dolore. Voluptatem aliquid eius neque!
             </p>
         </div>
         <!------------ VISION ------------>
         <div class="flex flex-col justify-center gap-3 px-4 md:px-8">
             <h2 class="capitalize font-bold text-3xl py-2">Our Mission</h2>
             <!------ PARAGRAPH ------>
-            <p class="lg:w-5/6 my-4 text-base capitalize text-gray-700">Duromedia was formed in 2016 by Founder, Mr. AbdulHad Durodola. He believes when passionate
-                people and like minds work together and well empowered, amazing things happen.In these few years, Duromedia has made its mark in Nigeria as
-                well as getting international recognition for excellence. The company has also made serious impact on people, small- and large-scale
-                businesses.
+            <p class="lg:w-5/6 my-4 text-base capitalize text-gray-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut blanditiis nulla vero, reiciendis explicabo sequi iste beatae velit excepturi repellendus reprehenderit animi necessitatibus numquam adipisci minus quisquam voluptatem eligendi maiores ipsam? Minus, quisquam ex excepturi consectetur, architecto explicabo, veniam nihil praesentium aperiam quis nulla cum alias dicta. Hic, quas rem!
             </p>
         </div>
     </div>
